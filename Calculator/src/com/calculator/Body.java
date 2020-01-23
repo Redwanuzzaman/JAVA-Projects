@@ -295,25 +295,25 @@ public class Body extends javax.swing.JFrame {
 
     private void textvalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_textvalActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_textvalActionPerformed
+    }
 
     private void oneActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_oneActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + one.getText();
         textval.setText(str);
-    }//GEN-LAST:event_oneActionPerformed
+    }
 
     private void twoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_twoActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + two.getText();
         textval.setText(str);
-    }//GEN-LAST:event_twoActionPerformed
+    }
 
     private void threeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_threeActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + three.getText();
         textval.setText(str);
-    }//GEN-LAST:event_threeActionPerformed
+    }
 
     private void plusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_plusActionPerformed
         // TODO add your handling code here:
@@ -323,25 +323,25 @@ public class Body extends javax.swing.JFrame {
         num1 = Double.valueOf(textval.getText());
         textval.setText("");
         
-    }//GEN-LAST:event_plusActionPerformed
+    }
 
     private void fourActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fourActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + four.getText();
         textval.setText(str);
-    }//GEN-LAST:event_fourActionPerformed
+    }
 
     private void fiveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fiveActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + five.getText();
         textval.setText(str);
-    }//GEN-LAST:event_fiveActionPerformed
+    }
 
     private void sixActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sixActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + six.getText();
         textval.setText(str);
-    }//GEN-LAST:event_sixActionPerformed
+    }
 
     private void minusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_minusActionPerformed
         // TODO add your handling code here:
@@ -350,25 +350,25 @@ public class Body extends javax.swing.JFrame {
         action = "-";
         num1 = Double.valueOf(textval.getText());
         textval.setText("");
-    }//GEN-LAST:event_minusActionPerformed
+    }
 
     private void sevenActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sevenActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + seven.getText();
         textval.setText(str);
-    }//GEN-LAST:event_sevenActionPerformed
+    }
 
     private void eightActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_eightActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + eight.getText();
         textval.setText(str);
-    }//GEN-LAST:event_eightActionPerformed
+    }
 
     private void nineActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nineActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + nine.getText();
         textval.setText(str);
-    }//GEN-LAST:event_nineActionPerformed
+    }
 
     private void mulActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_mulActionPerformed
         // TODO add your handling code here:
@@ -377,13 +377,13 @@ public class Body extends javax.swing.JFrame {
         textval.setText("");
 //        
         
-    }//GEN-LAST:event_mulActionPerformed
+    }
 
     private void zeroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_zeroActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + zero.getText();
         textval.setText(str);
-    }//GEN-LAST:event_zeroActionPerformed
+    }
 
     private void equalActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_equalActionPerformed
         // TODO add your handling code here:
@@ -422,7 +422,7 @@ public class Body extends javax.swing.JFrame {
         else{
             textval.setText(ans);
         }
-    }//GEN-LAST:event_equalActionPerformed
+    }
 
     private void divisonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_divisonActionPerformed
         // TODO add your handling code here:
@@ -432,13 +432,13 @@ public class Body extends javax.swing.JFrame {
         num1 = Double.valueOf(textval.getText());
         textval.setText("");
         
-    }//GEN-LAST:event_divisonActionPerformed
+    }
 
     private void pointActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pointActionPerformed
         // TODO add your handling code here:
         String str = textval.getText() + point.getText();
         textval.setText(str);
-    }//GEN-LAST:event_pointActionPerformed
+    }
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
@@ -446,7 +446,7 @@ public class Body extends javax.swing.JFrame {
         result = 0;
         num1 = 0;
         num2 = 0;
-    }//GEN-LAST:event_jButton1ActionPerformed
+    }
 
     private void backActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_backActionPerformed
         // TODO add your handling code here:
